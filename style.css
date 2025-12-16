@@ -1,0 +1,29 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  width: 600px;
+  margin: 0px auto;
+  background-color: beige;
+}
+h1 {
+  text-align: center;
+}
+.ul {
+  border: 5px solid rgb(196, 28, 84);
+  padding: 20px;
+  background-color: pink;
+  ;
+}
+img {
+  border-radius: 10px;
+  width: 600px;
+  height: auto;
+}
+/* Tiramisu */
+.recipes h1 {
+  color: brown;
+}
+.recipes ul, .recipes ol, .recipes p {
+  padding: 20px;
+  border: 5px solid rgb(128, 58, 58);
+  background-color: rgba(208, 69, 69, 0.684);
+}
