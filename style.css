@@ -34,3 +34,11 @@ a:hover {
   border: 5px solid rgb(128, 58, 58);
   background-color: rgba(208, 69, 69, 0.684);
 }
+@media (max-width: 600px) {
+  body {
+    width: 90%;
+  }
+  img {
+    width: 100%;
+  }
+}
